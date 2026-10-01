@@ -70,7 +70,7 @@ export default function Home() {
 
         {/* TITLE */}
         <h1 className="mb-6 text-center text-3xl font-bold">
-          TODO APPLICATION
+          TODO APPLICATION - VERSION 1.1 DEVELOPMENT
         </h1>
 
         {/* INPUT AND ADD BUTTON */}
